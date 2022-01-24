@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## My contacts:
 <p align="left">
 
 <a href = "https://vk.com/max_kezhaev"><img src="https://img.icons8.com/glyph-neue/64/000000/vk-circled.png"/></a>
