@@ -53,7 +53,7 @@
 ## My contacts:
 <p align="left">
 
-<a href = "https://vk.com/max_kezhaev"><img src="https://img.icons8.com/glyph-neue/50/000000/vk-circled.png"/></a>
+<a href = "https://vk.com/makezh"><img src="https://img.icons8.com/glyph-neue/50/000000/vk-circled.png"/></a>
 <a href = "https://www.instagram.com/max_kezhaev/"><img src="https://img.icons8.com/glyph-neue/50/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/maxim.kezhaev/"><img src="https://img.icons8.com/glyph-neue/50/000000/facebook-new.png"/></a>
   
