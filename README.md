@@ -20,10 +20,10 @@
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a> 
     <a href="https://ru.wikipedia.org/wiki/Scheme" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/lambda.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://ru.wikipedia.org/wiki/Java" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
     <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"><img src="https://img.icons8.com/plasticine/50/000000/bash.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://ru.wikipedia.org/wiki/Java" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
 </p>
 
 <br/>
