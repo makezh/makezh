@@ -11,7 +11,7 @@
 
 - 🌀 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me mail: **max.kezhaev@gmail.com** | telegram: **@max_kezhaev**
+- 📫 How to reach me: <a href="mailto:max.kezhaev@gmail.com">mail</a> | <a href="http://t.me/max_kezhaev">telegram</a>
 
 ## 🚀 Languages and Tools:
 
