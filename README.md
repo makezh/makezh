@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **ML and AI**
 
-- 🌀 I’m currently learning **Neural networks & MLOps**
+- 🌀 I’m currently learning **NLP**
 
 - 📫 How to reach me: <a href="mailto:max.kezhaev@gmail.com">mail</a> | <a href="http://t.me/max_kezhaev">telegram</a>
 
