@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- ✨ I’m currently exploring **machine learning**
+- ✨ I’m currently exploring **deep learning**
 
 - 👀 I’m interested in **ML and AI**
 
