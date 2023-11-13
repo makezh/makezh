@@ -11,7 +11,7 @@
 
 - 🌀 I’m currently learning **NLP**
 
-- 📫 How to reach me: <a href="mailto:max.kezhaev@gmail.com">mail</a> | <a href="http://t.me/max_kezhaev">telegram</a>
+- 📫 How to reach me: <a href="mailto:max.kezhaev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&&logo=gmail&logoColor=white"/></a> <a href="http://t.me/max_kezhaev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&&logo=telegram&logoColor=white"/></a>
 
 ## 🚀 Languages and Tools:
 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -49,7 +49,7 @@
 ## My contacts:
 <p align="left">
 
-<a href = "https://vk.com/makezh"><img src="https://img.icons8.com/glyph-neue/50/000000/vk-circled.png"/></a>
+<a href = "https://vk.com/makezh"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/></a>
   
 </p>
 
