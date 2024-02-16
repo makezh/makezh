@@ -7,7 +7,7 @@
 
 - ✨ I’m currently exploring **analytics**
 
-- 💼 Working at sravni.ru
+- 💼 Working at <a href="https://sravni.ru">sravni.ru</a>
 
 - 👀 I’m interested in **ML and AI**
 
