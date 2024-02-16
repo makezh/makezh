@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- ✨ I’m currently exploring **deep learning**
+- ✨ I’m currently exploring **analytics**
+
+- 💼 Working at sravni.ru
 
 - 👀 I’m interested in **ML and AI**
-
-- 🌀 I’m currently learning **NLP**
 
 - 📫 How to reach me: <a href="mailto:max.kezhaev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&&logo=gmail&logoColor=white"/></a> <a href="http://t.me/max_kezhaev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&&logo=telegram&logoColor=white"/></a>
 
