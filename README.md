@@ -7,7 +7,7 @@
 
 - ✨ I’m currently exploring **analytics**
 
-- 💼 Working at <a href="https://sravni.ru">sravni.ru</a>
+- 💼 Working at sravni.ru (<a href = "https://github.com/maxkezhaev">Work account</a>)
 
 - 👀 I’m interested in **ML and AI**
 
