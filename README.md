@@ -7,7 +7,7 @@
 
 - ✨ I’m currently exploring **analytics**
 
-- 💼 Working at sravni.ru (<a href = "https://github.com/maxkezhaev">Work account</a>)
+- 💼 ex. sravni.ru, platacard.mx; now in rocketbank.ru
 
 - 👀 I’m interested in **ML and AI**
 
