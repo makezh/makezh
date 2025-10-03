@@ -7,7 +7,7 @@
 
 - ✨ I’m currently exploring **analytics**
 
-- 💼 ex. sravni.ru, platacard.mx; now in rocketbank.ru
+- 💼 ex. sravni.ru, platacard.mx; now in **rocketbank.ru**
 
 - 👀 I’m interested in **ML and AI**
 
