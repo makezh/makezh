@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Makezh</h1>
-<h3 align="center">I'm a programmer and BMSTU student from Moscow</h3>
+<h3 align="center">I'm a product analyst and BMSTU student from Moscow</h3>
 
 
 ## 🙋‍♂️ About Me
